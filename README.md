@@ -3,8 +3,6 @@
 
 ### Homework 8 - Encapsulating Node with GPTree
 
-[![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions)
-
 It’s time to plan ahead for the Genetic Programming project.  If we try to process more trees in our main() method, it will get unwieldy and hard to maintain.  A simplistic rule of thumb is that main() shouldn’t have more than about 20 lines of code in it.  It should make a few objects, and then tell them to "go about their business."
 
 ## Starting Out:
